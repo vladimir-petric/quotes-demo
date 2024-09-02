@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quotes Demo</string>
+    <string name="title_activity_quotes_list">QuotesListActivity</string>
+</resources>
